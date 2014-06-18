@@ -12,7 +12,7 @@ The folders correspond to:
 - **scores**: output scores
 - **spatial**: vector (shapefile) and raster (GeoTIFF) formats of the regions used
 
-NOTE: The message in gray text to the right of the file or folder corresponds with the message associated with the most recent [commit](https://github.com/OHI-Science/ohi-uswest/commits/master), hence reflecting status of overall repository at that time and not necessarily the individual state of the file.
+NOTE: The message in gray text to the right of the files and folders corresponds with the message associated with the most recent change with that file or folder (called [commits](https://github.com/OHI-Science/ohi-uswest/commits/master)), hence reflecting status of the overall repository at that time and not necessarily the individual state of the file now.
 
 For more information, see:
 
