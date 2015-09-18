@@ -1,0 +1,9 @@
+region_id,region_code,region_label
+1,CA1,Northern California
+2,CA2,Central California
+3,CA3,Southern California
+4,OR,Oregon
+5,WA,Washington
+6,CA,California
+7,CCO,California Current Ocean
+8,CC,California Current Study Area

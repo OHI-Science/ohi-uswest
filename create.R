@@ -1,3 +1,5 @@
+# create.R transfers files from Neptune into .csv files and creates folders. It does not calculate scores.
+
 library(reshape2)
 library(plyr)
 library(stringr)
